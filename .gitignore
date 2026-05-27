@@ -1,2 +1,6 @@
 # Development planning (local only)
 planning/
+
+# Claude Code project configuration (local only)
+.claude/
+CLAUDE.md
